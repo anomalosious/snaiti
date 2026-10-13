@@ -1,1 +1,14 @@
+Snaiti is an independent font made by Olynum, which is my Discord username.
 
+It's meant to be... well, I'm not really sure how to explain it. I think it's a little hard to understand, but I can't really see the difference myself since I'm the one who made it.
+
+If you're interested, feel free to try the font out. If you like it, you can recommend it to other people.
+
+Don't ever claim that you made this font. Olynum made it, nobody else. No buts.
+
+Don't disrespect my font without a reason. If you don't like it, then don't use it.
+
+If you're interested in getting this font, get it only from the official GitHub repository:
+https://github.com/anomalosious/snaiti
+
+Please follow the license. Thank you!
